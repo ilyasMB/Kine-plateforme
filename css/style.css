@@ -404,6 +404,11 @@ contact us
     border-radius: 0px;
     padding: 10px 20px;
 }
+.contactF {
+
+    padding-left: 140px !important;
+    width: 37.33% !important;
+}
 .br-radius-zero {
     border-radius: 0px;
 }
